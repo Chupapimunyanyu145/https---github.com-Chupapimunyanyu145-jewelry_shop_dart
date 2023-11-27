@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "446208835155",
+    "project_id": "jewelry-shop-app-8921a",
+    "storage_bucket": "jewelry-shop-app-8921a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446208835155:android:ab6ea65aa7e9983016d0a6",
+        "android_client_info": {
+          "package_name": "com.example.jewelry_shop_dart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsugBPxK_iYTfR2K-QUuScvUvdZSky3-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
